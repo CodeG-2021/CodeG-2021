@@ -21,9 +21,6 @@
 # 
 <div style="display: flex; flex-direction: row; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeG-2021&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="height: 200px; flex: 2; object-fit: contain;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CodeG-2021&theme=dark&hide_border=false" style="height: 200px; flex: 1; object-fit: contain;" />
-
 </div>
 
 
